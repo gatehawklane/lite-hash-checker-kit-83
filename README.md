@@ -1,2 +1,9 @@
-# lite-hash-checker-kit-83
-A simple hash checker project
+# Hash Checker
+
+A simple hash checker project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
